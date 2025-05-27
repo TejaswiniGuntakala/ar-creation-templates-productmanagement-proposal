@@ -11,7 +11,7 @@ This project proposes an innovative feature called AR Creation Templates for a M
 ## 📄 Proposal Document
 
 The full assignment submission is available in the [`proposal`](./proposal) folder:
-- [📕 View the Proposal (PDF)](.Flam-Tejaswini.G ( Product Managemnt Assignment).pdf)
+- [📕 View the Proposal (PDF)](./Flam-Tejaswini.G ( Product Managemnt Assignment).pdf)
 
 ## 🧩 Key Components
 
